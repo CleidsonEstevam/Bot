@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "puppeteer": "^16.1.0",
+<<<<<<< HEAD
+    "telegraf": "^4.8.6"
+=======
+    "telegraf": "^4.8.6",
+    "start": "node index"
+>>>>>>> 9290587 (v3)
+  }
+}
